@@ -1,0 +1,9 @@
+{
+    "discord_token": "",
+    "openai_api_key": "",
+    "clientId": "",
+    "guildId": "",
+    "general_voice_channel": "",
+    "general_text_channel": "",
+    "elevenlabs_api_key": ""
+}
